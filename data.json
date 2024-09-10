@@ -1,0 +1,70 @@
+{
+    "students": [
+        {
+            "name": "Mohamed",
+            "age": "27",
+            "photo": "images/mohamed.jpg",
+            "description": ""
+        },
+        {
+            "name": "Paul-Emile",
+            "age": "25",
+            "photo": "images/paulemile.jpg",
+            "description": ""
+        },
+        {
+            "name": "Théo",
+            "age": "22",
+            "photo": "images/theo.jpg",
+            "description": "Never fade away."
+        },
+        {
+            "name": "Khouloud",
+            "age": "22",
+            "photo": "images/khouloud.jpg",
+            "description": ""
+        },
+        {
+            "name": "Mathieu",
+            "age": "19",
+            "photo": "images/mathieu.jpg",
+            "description": ""
+        },
+        {
+            "name": "Emilien",
+            "age": "23",
+            "photo": "images/emilien.jpg",
+            "description": ""
+        },
+        {
+            "name": "Mathias",
+            "age": "28",
+            "photo": "images/mathias.jpg",
+            "description": ""
+        },
+        {
+            "name": "Mathéo",
+            "age": "20",
+            "photo": "images/mathéo.jpg",
+            "description": "En légende"
+        },
+        {
+            "name": "Hugo",
+            "age": "20",
+            "photo": "images/hugo.jpg",
+            "description": "Virtuose des claviers qu’il soient en touchent ou en lignes💻🎹"
+        },
+        {
+            "name": "Claire",
+            "age": "26",
+            "photo": "images/claire.jpg",
+            "description": "Réussir c'est prendre le risque d'échouer ⚔️"
+        },
+        {
+            "name": "Julie",
+            "age": "20",
+            "photo": "images/julie.jpg",
+            "description": "Hakuna Matata 🌞"
+        }
+    ]
+}
